@@ -2,7 +2,7 @@
 <h3 align="center">A curious developer, ambitious to positively impact lives using the power of AI.</h3>
 
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/cute-anime-kitten-typing-cat-bwqjywmrsxcjv5o3.gif">
-
+<br>
 - 🔭 I’m currently working on [AI-Assisted Calorie Counting App](In progress)
 
 - 💬 Ask me about **Distributed Systems, Cloud Computing, Artificial Intelligence**
@@ -11,6 +11,7 @@
 
 - 📄 Know about my experiences ([résumé](https://drive.google.com/file/d/1LANcFjOgE9iJgWdIpDJzBvd1pP85yQue/view?usp=sharing))
 
+<br>
 <h2 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashrithvm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyasnagesh" height="30" width="40" /></a>
