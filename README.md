@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashrith</h1>
-<h3 align="center">A curious developer, ambitious to positively impact lives using the power of AI.</h3>
+Hi, I'm Ashrith
+An engineer trying to find insane solutions for weird problems.
 
 
 - I’m currently working on Google Distributed Cloud
